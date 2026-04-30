@@ -8,7 +8,7 @@
 // add hack
 // add hackerrank
 // find hac
-// find hak
+// find hak..
 
 import java.io.*;
 import java.util.*;
