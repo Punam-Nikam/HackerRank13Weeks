@@ -56,7 +56,7 @@ public class MedianOne {
         System.out.println("Enter n :");
         int n = sc.nextInt();
         List<Integer> a = new ArrayList<>();
-        System.out.println("Enter n values : ");
+        System.out.println("Enter "+n+" values :");
         for (int i = 0; i < n; i++) {
             a.add(sc.nextInt());
         }
