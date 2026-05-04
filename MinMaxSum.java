@@ -1,4 +1,4 @@
-///Problem -1 (Find min and max sum)
+///Problem -2 (Find min and max sum)
 
 import java.io.*;
 import java.math.*;
