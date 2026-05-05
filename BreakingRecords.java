@@ -1,5 +1,6 @@
 ////PROBLEM - 4
-// / BReaking the Records is a problem where you are given a list of scores and you need to determine how many times the highest and lowest scores were broken. The first score is considered the initial record for both highest and lowest.
+// / BReaking the Records is a problem where you are given a list of scores and you need to determine how many times the highest and lowest scores were broken.
+//The first score is considered the initial record for both highest and lowest.
 
 import java.util.*;
 
