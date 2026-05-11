@@ -1,4 +1,5 @@
-//Problem : 8 (Grading Students)
+// Problem : 8 
+// (Grading Students) - This program rounds student grades according to the university grading policy based on the nearest multiple of 5.
 
 import java.util.*;
 
