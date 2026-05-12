@@ -1,5 +1,6 @@
 //PROBLEM - 13 
-// DIAGONAL DIFFERENCE !!
+// DIAGONAL DIFFERENCE - Find and return the absolute difference between these two diagonal sums. 
+//The absolute difference means the result should always be a positive value.
 
 import java.util.*;
 
