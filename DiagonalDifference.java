@@ -20,11 +20,9 @@ public class DiagonalDifference {
         int n = arr.size();
 
         for (int i = 0; i < n; i++) {
-
-            // Left to Right Diagonal
+            
             leftDiagonal += arr.get(i).get(i);
 
-            // Right to Left Diagonal
             rightDiagonal += arr.get(i).get(n - 1 - i);
         }
 
