@@ -1,5 +1,7 @@
 //Problem - 17
-//Pangram Checking - A pangram is a sentence that contains every letter of the English alphabet at least once. Given a string, determine if it is a pangram.
+//Pangram Checking - A pangram is a sentence that contains every letter of the English alphabet at least once. Given a string, 
+//determine if it is a pangram.
+
 import java.util.*;
 public class PangramChecking {
 
@@ -27,6 +29,7 @@ public class PangramChecking {
         }
     }
 }
+//using another ways - (array)
 
 //         boolean[] alphabet = new boolean[26];
 
