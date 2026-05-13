@@ -1,3 +1,7 @@
+//Problem -18
+//Mars Exploration - Given a received message consisting of repeated "SOS" signals, count how many characters were altered during transmission. 
+//Compare the received string with the expected repeating "SOS" pattern.
+
 import java.util.*;
 
 public class MarsExploration {
@@ -6,15 +10,13 @@ public class MarsExploration {
 
         int count = 0;
 
-        for (int i = 0; i < s.length(); i++) {
-
-            // Expected characters: S O S
-            if (i % 3 == 0 || i % 3 == 2) {
-
+        for (int i = 0; i < s.length(); i++) 
+        {
+            if (i % 3 == 0 || i % 3 == 2) 
+            {
                 if (s.charAt(i) != 'S') {
                     count++;
                 }
-
             } else {
 
                 if (s.charAt(i) != 'O') {
@@ -22,7 +24,6 @@ public class MarsExploration {
                 }
             }
         }
-
         return count;
     }
 
