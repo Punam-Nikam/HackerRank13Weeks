@@ -1,6 +1,7 @@
 ##Problem - 21 XOR Strings
 # Given two binary strings (strings containing only 0 and 1) of equal length, perform the XOR operation on each corresponding pair of characters
 #  and return the resulting binary string.
+# HackerRank debuging problem using python.
 
 def strings_xor(s, t):
     res = ""
