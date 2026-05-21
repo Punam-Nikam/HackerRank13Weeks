@@ -1,3 +1,5 @@
+// PROBLEM - 22 Sales By Match.
+
 // Given a list of sock colors represented by integers, count how many matching pairs of socks can be formed.
 //  Two socks form a pair if they have the same color.
 
