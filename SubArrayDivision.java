@@ -1,3 +1,6 @@
+// PROBLEM- 20 SubArray Division
+// Given a chocolate bar represented by an array of integers, find how many contiguous segments of length m have a sum equal to d.
+
 import java.util.*;
 
 public class SubArrayDivision {
