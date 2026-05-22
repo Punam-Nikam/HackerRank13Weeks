@@ -1,3 +1,7 @@
+//PROBLEM - 25 (Debug problem of HackerRank)
+///Zig Zag Sequence: Rearrange the array so elements first increase till the middle and then decrease, 
+/// forming the lexicographically smallest zig zag sequence.
+
 def findZigZagSequence(a, n):
     a.sort()
 
