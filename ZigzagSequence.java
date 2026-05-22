@@ -1,3 +1,7 @@
+//PROBLEM - 25
+///Zig Zag Sequence: Rearrange the array so elements first increase till the middle and then decrease, 
+/// forming the lexicographically smallest zig zag sequence.
+
 import java.util.*;
 
 public class ZigzagSequence {
