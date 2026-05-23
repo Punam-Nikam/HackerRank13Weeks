@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-///PROBLEM - 24 lARGEST PERIMETER TRIANGLE
+
+///PROBLEM - 24 LARGEST PERIMETER TRIANGLE
 ///Maximum Perimeter Triangle: Find three stick lengths that form a non-degenerate triangle with the maximum possible perimeter,
 ///or return -1 if impossible.
-=======
-/// PROBLEM - 24  LARGEST PERIMETER TRIANGLE
-/// Maximum Perimeter Triangle: Find three stick lengths that form a non-degenerate triangle with the maximum possible perimeter, 
-// or return -1 if impossible.
-
->>>>>>> e2f3e5f (Adding new programs)
 
 import java.util.*;
 
