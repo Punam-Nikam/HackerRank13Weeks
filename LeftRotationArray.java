@@ -1,4 +1,4 @@
-//PROBLEM - 27 lEFT ROTATION ARRAY
+//PROBLEM - 28 lEFT ROTATION ARRAY
 //Rotate(Shift) the array to the left by d positions, where each left rotation shifts every element one position toward the beginning of the array.
 // Return the final array after completing all rotations.
 
@@ -9,7 +9,7 @@ public class LeftRotationArray
         
         // ArrayList<Integer> list = new ArrayList<>(
         //         Arrays.asList(10, 20, 30, 40, 50));
-        
+
         Scanner sc=new Scanner(System.in);
         List <Integer> list =new ArrayList<>();
 
