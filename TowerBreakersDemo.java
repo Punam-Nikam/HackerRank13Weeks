@@ -1,3 +1,7 @@
+// PROBLEM - 32 TOWER BREAKERS
+// Determine the winner of the Tower Breakers game where players alternately reduce tower heights using valid divisors.
+// Return 1 if Player 1 wins with optimal play, otherwise return 2.
+
 import java.util.*;
 
 public class TowerBreakersDemo {
