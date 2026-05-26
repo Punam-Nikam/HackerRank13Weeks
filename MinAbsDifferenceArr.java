@@ -1,4 +1,6 @@
-//Problem : 
+//Problem : 33 - Minimum Absolute Difference in an Array
+// Given an array of integers, find the minimum absolute difference between any two elements in the array.
+// Return the smallest absolute difference among all possible pairs.
 
 import java.util.*;
 
