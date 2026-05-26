@@ -8,7 +8,6 @@ public class MinAbsDifferenceArr {
 
     public static int minimumAbsoluteDifference(List<Integer> arr) {
 
-    
         Collections.sort(arr);
 
         int min = Integer.MAX_VALUE;
