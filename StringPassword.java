@@ -1,4 +1,4 @@
-//PROBLEM - 36 STRING PASSWORD
+//PROBLEM - 35 STRING PASSWORD
 
 // Determine the minimum number of characters needed to make a password strong.
 // A strong password must contain uppercase, lowercase, digit, special character, and minimum length 6.

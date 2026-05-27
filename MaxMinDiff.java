@@ -1,4 +1,4 @@
-//PROBLEM - 35 MAX MIN DIFF
+//PROBLEM - 34 MAX MIN DIFF
 
 // Select k integers from the array such that the difference between the maximum and minimum selected elements is minimized.
 // Return the minimum possible unfairness value.
