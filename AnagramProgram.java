@@ -1,6 +1,5 @@
 import java.util.Scanner;
 /// WEEK TEST - 4 
-
 /*
 Problem Description:
 Given a string, divide it into two equal halves.
