@@ -1,3 +1,5 @@
+// PROBLEM - 41 XOR Array
+// Given an array of integers, find the XOR of all elements that appear an odd number of times in the array. Print the result.
 import java.util.*;
 
 public class XORArray {
