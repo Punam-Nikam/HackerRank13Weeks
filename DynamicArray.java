@@ -1,11 +1,11 @@
-// PROBLEM - 39 Dymanic Array
+// PROBLEM - 39 Dynamic Array
 // Perform dynamic array operations based on queries and print the results of all type-2 queries.
 
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class DynamicArray {
 
     public static void main(String[] args) {
 
