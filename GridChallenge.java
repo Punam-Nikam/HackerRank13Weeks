@@ -1,3 +1,7 @@
+//PROBLEM - 40 Grid Challenge
+// Given a square grid of lowercase letters, sort the characters in each row alphabetically. After sorting all rows, check whether every column is also in alphabetical order from top to bottom. Print "YES" if all columns are sorted; otherwise, print "NO".
+
+
 import java.util.*;
 
 public class GridChallenge {
