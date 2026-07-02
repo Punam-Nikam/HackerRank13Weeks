@@ -1,3 +1,8 @@
+//PROBLEM - 46 Misere Nim Game
+
+// Misère Nim is a variation of the Nim game where two players take turns removing one or more stones from a single pile. Unlike normal Nim, the player who removes the last stone loses. Given the number of stones in each pile, determine whether the First or Second player wins if both play optimally.
+
+
 import java.util.*;
 
 public class MisereNimGame {
