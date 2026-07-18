@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class SumDigit {
+public class SuperDigit {
 
     // Function to find super digit
     public static int superDigit(String n, int k) {
