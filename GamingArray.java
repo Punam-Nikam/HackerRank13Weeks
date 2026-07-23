@@ -9,7 +9,7 @@ import java.util.*;
 
 public class GamingArray {
 
-    // Core logic: count "new maximums" while scanning left to right
+    // we count new maximums while scanning left to right
     public static String gamingArray(List<Integer> arr) {
         int moves = 0;
         int max = Integer.MIN_VALUE;
