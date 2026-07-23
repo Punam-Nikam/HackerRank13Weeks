@@ -1,3 +1,7 @@
+//PROBLEM - 53 Goodland Electricity
+
+// Goodland has n cities arranged in a straight line. Some cities can have power plants (1), while others cannot (0). A power plant built at a city supplies electricity to cities within a distance of k - 1 on both sides. Find the minimum number of power plants required to cover all cities, or return -1 if it is impossible.
+
 import java.util.*;
 public class GoodlandElectricity {
 
