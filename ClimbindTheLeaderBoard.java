@@ -1,5 +1,7 @@
 // PROBLEM - 54 climbing the leaderboard
 
+// In a game, the leaderboard is ranked in descending order. Players can have the same score, and they share the same rank. The next player with a lower score will have the next rank. Given a list of scores on the leaderboard and a list of scores for a player, determine the player's rank after each new score.
+
 import java.util.*;
 
 public class ClimbindTheLeaderBoard {
