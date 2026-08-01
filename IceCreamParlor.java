@@ -1,3 +1,4 @@
+//PROBLEM - 61 ICE cream parlor problem
 /*
 Problem Statement:
 Given the total money and the cost of each ice cream flavor,
